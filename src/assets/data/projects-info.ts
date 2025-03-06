@@ -159,6 +159,7 @@ export const projectsInfo = [
 	{
 		id: 7,
 		title: 'Coursify',
+		disable: true,
 		topProjects: true,
 		description:
 			'The main goal of this project was to learn the fundamentals of NextJS, folders routing system, reusable components, databases, api endpoints, video storage and more. I did this project in the course of Code with Antonio.',
