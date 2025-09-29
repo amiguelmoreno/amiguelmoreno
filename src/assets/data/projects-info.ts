@@ -46,6 +46,7 @@ export const projectsInfo = [
 	{
 		id: 3,
 		title: 'My Money',
+		disable: true,
 		topProjects: true,
 		description:
 			'The main goal of this project is to use almost everything I have learnt about React, using a lot of main functionalities of React, Supabase and more.',
